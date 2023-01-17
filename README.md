@@ -1,1 +1,1 @@
-# assignment10
+# Covid19 risky group
